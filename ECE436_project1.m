@@ -2,8 +2,8 @@
 % Nick Miller
 % 10/30/2017
 
-% call the function ECE436_project1() from MATLAB's command window. If no
-% array of numerator and denominator coeffecients is provided, the script
+% To use script, call the function ECE436_project1() from MATLAB's command window.
+% If no array of numerator and denominator coeffecients is provided, the script
 % defaults to using the hardcoded coefficients.
 
 function ECE436_project1(Num, Den)
